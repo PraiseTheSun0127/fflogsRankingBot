@@ -2,7 +2,7 @@
 
 このdiscord botは[fflogs](https://www.fflogs.com/)が提供しているAPIを用いて、特定のguildNameの特定のzoneのランキングを一覧にして表示します。
 ※fflogsBotという名前にとりあえずしていますが、fflogs公式が作成したものではございません。あしからず
-　fflogs公式からなんか怒られたら秒でこのプロジェクトは爆破します
+　fflogs公式から怒られたら秒でこのプロジェクトは爆破します
 
 ## 使い方
 
