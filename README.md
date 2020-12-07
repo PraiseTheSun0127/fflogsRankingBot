@@ -1,4 +1,4 @@
-# fflogsBot（仮）
+# fflogsRankingBot（仮）
 
 このdiscord botは[fflogs](https://www.fflogs.com/)が提供しているAPIを用いて、特定のguildNameの特定のzoneのランキングを一覧にして表示します。
 調べるランキングの上限は200位までなので、200位より低いデータは反映されません。
